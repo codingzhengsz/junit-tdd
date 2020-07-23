@@ -32,4 +32,3 @@ public class FizzBuzzTest {
         assertEquals("Fizz", result);
     }
 }
-q
